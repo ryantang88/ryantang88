@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Ryan Tang, a second year Computer Science and Engineering student at UCLA.
+- 👋 Hi, I’m Ryan Tang, a Computer Science and Engineering student at UCLA.
 - 👀 I’m interested in software development and quantatative finance.
 - 📫 Reach out to me at ryantang88@g.ucla.edu
 
